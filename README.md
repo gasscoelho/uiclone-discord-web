@@ -4,7 +4,7 @@
 
 [![Netlify Status](https://api.netlify.com/api/v1/badges/d25303a2-671f-4c61-8551-4f2330ef5de9/deploy-status)](https://app.netlify.com/sites/suspicious-visvesvaraya-3ce7f4/deploys)
 
-![](.github\images\uiclone-discord.png)
+![](.github/images/uiclone-discord.png)
 
 ## Getting Started
 
