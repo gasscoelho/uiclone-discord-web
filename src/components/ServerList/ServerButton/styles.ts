@@ -15,7 +15,7 @@ export const Button = styled.button<ServerButtonProps>`
   margin-bottom: 8px;
 
   background-color: ${(props) =>
-    props.isHome ? "var(--rocketseat)" : "var(--primary)"};
+    props.isHome ? "var(--discord)" : "var(--primary)"};
 
   position: relative;
   cursor: pointer;
