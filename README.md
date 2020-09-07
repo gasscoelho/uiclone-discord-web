@@ -17,11 +17,15 @@ Clone the repository using the following command: <br />
 
 Then open the project using an editor of your preference.
 
+---
+
 ### `yarn`
 
 Install de project dependencies.
 
 If you are using NPM then run `npm install`
+
+---
 
 ### `yarn start`
 
@@ -32,10 +36,10 @@ If you are using NPM then run `npm start`
 
 ## Built With
 
-✨ReactJS
-✨TypeScript
-✨Styled-Components
-✨Styled-Icons & more!
+✨ReactJS <br />
+✨TypeScript <br />
+✨Styled-Components <br />
+✨Styled-Icons & more! <br />
 
 ## Author
 
