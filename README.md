@@ -36,10 +36,10 @@ If you are using NPM then run `npm start`
 
 ## Built With
 
-✨ReactJS <br />
-✨TypeScript <br />
-✨Styled-Components <br />
-✨Styled-Icons & more! <br />
+✨ ReactJS <br />
+✨ TypeScript <br />
+✨ Styled-Components <br />
+✨ Styled-Icons & more! <br />
 
 ## Author
 
